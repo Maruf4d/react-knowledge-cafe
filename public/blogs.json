@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/PQwrdWX/max-duzij-q-Aj-Jk-un3-BI-unsplash.jpg",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Jessica Johnson",
+      "author_img": "https://i.ibb.co/hg1WLwF/author-1.jpg",
+      "post_date": "2024-03-13",
+      "reading_time": 10,
+      "hashtags": ["#mystery", "#adventure", "#fiction"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/cxZtRPt/istockphoto-1413990965-612x612.jpg",
+      "title": "Secrets of the Forgotten Forest",
+      "author": "Michael Smith",
+      "author_img": "https://i.ibb.co/Mfg3F2s/author-2.jpg",
+      "post_date": "2024-03-12",
+      "reading_time": 15,
+      "hashtags": ["#forest", "#secrets", "#adventure"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/pXccMCF/composition-with-html-system-websites-23-2150866292.jpg",
+      "title": "Beyond the Stars",
+      "author": "Emily Brown",
+      "author_img": "https://i.ibb.co/0r10W8Y/author-3.jpg",
+      "post_date": "2024-03-11",
+      "reading_time": 20,
+      "hashtags": ["#space", "#adventure"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/G0mtyCr/blake-connally-IKUYGCFmfw4-unsplash.jpg",
+      "title": "Power Off MaRuf",
+      "author": "MaRuf Programer",
+      "author_img": "https://i.ibb.co/0sgsRW0/aut-4.jpg",
+      "post_date": "2024-03-11",
+      "reading_time": 25,
+      "hashtags": ["#romance", "#drama", "#fiction"]
+    }
+  ]
+  
